@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block styles %}
+<style>
+	body{
+	background-image:url("{%static 'images/golf.jpg'%}");
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+}
+</style>
+	<link rel="stylesheet" href="{% static 'css/home.css' %}" />
+{% endblock styles %}
+
+{% block content %}
+	<div class="header">
+		<h1 style="color:white;">Golf Clash</h1>
+	</div>
+
+	<div class="content">
+		<form method="POST">
+			{% csrf_token %}
+		
+			<div class="formDiv">
+
+				<div class="dropdown">
+					<div class="dropbtn" id="club_type_lable">
+						{% if request.session.type_name %}
+							{{ request.session.type_name }} <i class="fas fa-caret-down"></i>
+						{% else %}
+						Club Type <i class="fas fa-caret-down"></i>
+						{% endif %}
+					</div>
+					<div class="dropdown-content">
+						{% for club_type in club_type_obj %}
+							<a id="club_type_list">{{club_type.name}}</a>
+						{% endfor %}
+					</div>
+				</div>
+
+				<div class="dropdown">
+					<input type="hidden" name="club" id="club_input" value="{{ request.session.club_id }}">
+					<div class="dropbtn" id="club_lable">
+						{% if request.session.club_used %}
+							{{ request.session.club_used }} <i class="fas fa-caret-down"></i>
+						{% else %}
+						Clubs <i class="fas fa-caret-down"></i>
+						{% endif %}
+					</div>
+					<div class="dropdown-content" id="clubs_dropdown">
+						
+					</div>
+				</div>
+
+				<div class="dropdown">
+					<input type="hidden" name="ball_power" id="ball_power_input" value="{{request.session.ball_power}}">
+					<div class="dropbtn" id="ball_power_lable">
+						{% if request.session.ball_power %}
+							{{ request.session.ball_power }} <i class="fas fa-caret-down"></i>
+						{% else %}
+						Ball Power <i class="fas fa-caret-down"></i>
+						{% endif %}
+					</div>
+					<div class="dropdown-content">
+						{% for ball_power in ball_power_obj %}
+							<a id="ball_power_list">{{ball_power.value}}</a>
+						{% endfor %}
+					</div>
+				</div>
+
+				<div class="dropdown">
+					<input type="hidden" name="club_level" id="club_level_input" value="{{request.session.club_level}}">
+					<div class="dropbtn" id="club_level_lable">
+						{% if request.session.club_level %}
+							{{ request.session.club_level }} <i class="fas fa-caret-down"></i>
+						{% else %}
+						Club Level <i class="fas fa-caret-down"></i>
+						{% endif %}
+					</div>
+					<div class="dropdown-content">
+						{% for club_level in club_level_obj %}
+							<a id="club_level_list">{{club_level.value}}</a>
+						{% endfor %}
+					</div>
+				</div>
+
+				<input style="margin-right: 20px; text-align: center; border-radius: 20px; border: none;" type="number" name="wind" placeholder="wind" value="{{request.session.wind}}">
+				<input style="margin-right: 20px; text-align: center; border-radius: 20px; border: none;" type="number" name="elevation" placeholder="elevation" value="{{request.session.elevation}}">
+				<input style="margin-right: 20px; text-align: center; border-radius: 20px; border: none;" type="number" name="rings" placeholder="rings" value="{{request.session.rings}}">
+
+			</div>
+			<div style="display: flex; justify-content: center; margin-top: 20px;">
+				<input class="submitBtn" type="submit" value="submit">
+			</div>
+		</form>
+	</div>
+	{% if club_used %}
+
+	<div class="content">
+		<div class="card border-light mb-3 shadow-lg p-3 mb-5 rounded" style="width: 50%; background-color: #4caf50; color: white;">
+			<div class="card-header">Result</div>
+			<div class="card-body">
+
+				<p>Club Used: {{club_used}}</p>
+				<p>Ring from max: {{rings_from_max}}</p>
+				<p>Ring from min: {{rings_from_min}}</p>
+				<p>From max: {{from_max}}</p>
+				<p>From min: {{from_min}}</p>
+			  
+			</div>
+		</div>
+	</div>
+
+	{% endif %}
+{% endblock content %}
+
+{% block js %}
+	<script src="{% static 'js/home.js' %}"></script>
+{% endblock js %}

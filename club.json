@@ -1,0 +1,3121 @@
+{
+  "Beginner Driver": [
+    {
+      "club_name": "Beginner Driver",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 1,
+      "club_min": 180,
+      "club_distance": [
+        190
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10
+      ],
+      "hook_op": [
+        12
+      ]
+    }
+  ],
+  "The Rocket": [
+    {
+      "club_name": "The Rocket",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 10,
+      "club_min": 180,
+      "club_distance": [
+        190,
+        190,
+        192,
+        198,
+        198,
+        202,
+        204,
+        204,
+        206,
+        211
+      ],
+      "club_accuracy": [
+        50,
+        70,
+        70,
+        76,
+        76,
+        83,
+        83,
+        83,
+        83,
+        90
+      ],
+      "hook_no_op": [
+        13.3,
+        15,
+        15,
+        15.8,
+        15.8,
+        16.9,
+        16.9,
+        16.9,
+        16.9,
+        18.4
+      ],
+      "hook_op": [
+        14.7,
+        17.1,
+        17.1,
+        18,
+        18,
+        19.3,
+        19.3,
+        19.3,
+        19.3,
+        20.8
+      ]
+    }
+  ],
+  "The Extra Mile": [
+    {
+      "club_name": "The Extra Mile",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 9,
+      "club_min": 180,
+      "club_distance": [
+        220,
+        220,
+        224,
+        226,
+        226,
+        234,
+        234,
+        236,
+        237
+      ],
+      "club_accuracy": [
+        0,
+        7,
+        7,
+        7,
+        29,
+        29,
+        45,
+        45,
+        45
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Big Topper": [
+    {
+      "club_name": "Big Topper",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 8,
+      "club_min": 180,
+      "club_distance": [
+        205,
+        209,
+        209,
+        217,
+        217,
+        219,
+        225,
+        230
+      ],
+      "club_accuracy": [
+        10,
+        10,
+        25,
+        25,
+        34,
+        51,
+        51,
+        60
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Quarterback": [
+    {
+      "club_name": "The Quarterback",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 10,
+      "club_min": 180,
+      "club_distance": [
+        197,
+        197,
+        203,
+        203,
+        207,
+        207,
+        214,
+        214,
+        218,
+        218
+      ],
+      "club_accuracy": [
+        73,
+        80,
+        80,
+        80,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Rock": [
+    {
+      "club_name": "The Rock",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 9,
+      "club_min": 180,
+      "club_distance": [
+        215,
+        215,
+        215,
+        222,
+        222,
+        226,
+        226,
+        231,
+        232
+      ],
+      "club_accuracy": [
+        65,
+        65,
+        86,
+        86,
+        94,
+        94,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Thor's Hammer": [
+    {
+      "club_name": "Thor's Hammer",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 8,
+      "club_min": 180,
+      "club_distance": [
+        220,
+        220,
+        222,
+        229,
+        232,
+        232,
+        232,
+        235
+      ],
+      "club_accuracy": [
+        50,
+        64,
+        64,
+        64,
+        64,
+        64,
+        92,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Apocalypse": [
+    {
+      "club_name": "The Apocapypse",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 8,
+      "club_min": 180,
+      "club_distance": [
+        229,
+        231,
+        231,
+        234,
+        240,
+        240,
+        240,
+        240
+      ],
+      "club_accuracy": [
+        35,
+        35,
+        43,
+        66,
+        75,
+        75,
+        84,
+        90
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Golden Driver": [
+    {
+      "club_name": "Golden Driver",
+      "club_type": "Driver",
+      "acc_intercept": 0.25,
+      "acc_coefficient": -0.001666666,
+      "traj_coefficient": 28800,
+      "club_levels": 1,
+      "club_min": 180,
+      "club_distance": [
+        202
+      ],
+      "club_accuracy": [
+        83
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Beginner Wood": [
+    {
+      "club_name": "Beginner Wood",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 1,
+      "club_min": 135,
+      "club_distance": [
+        160
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Horizon": [
+    {
+      "club_name": "The Horizon",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 8,
+      "club_min": 135,
+      "club_distance": [
+        170,
+        171,
+        173,
+        173,
+        173,
+        178,
+        178,
+        179
+      ],
+      "club_accuracy": [
+        0,
+        0,
+        12,
+        12,
+        31,
+        31,
+        45,
+        65
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Viper": [
+    {
+      "club_name": "The Viper",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 10,
+      "club_min": 135,
+      "club_distance": [
+        160,
+        164,
+        165,
+        165,
+        166,
+        166,
+        170,
+        170,
+        170,
+        170
+      ],
+      "club_accuracy": [
+        20,
+        20,
+        35,
+        40,
+        51,
+        51,
+        56,
+        56,
+        67,
+        72
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Big Dawg": [
+    {
+      "club_name": "The Big Dawg",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 9,
+      "club_min": 135,
+      "club_distance": [
+        174,
+        174,
+        177,
+        177,
+        177,
+        180,
+        180,
+        180,
+        180
+      ],
+      "club_accuracy": [
+        20,
+        20,
+        25,
+        25,
+        25,
+        25,
+        44,
+        56,
+        60
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Hammerhead": [
+    {
+      "club_name": "The Hammerhead",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 8,
+      "club_min": 135,
+      "club_distance": [
+        169,
+        170,
+        170,
+        170,
+        170,
+        175,
+        175,
+        176
+      ],
+      "club_accuracy": [
+        65,
+        65,
+        83,
+        95,
+        95,
+        95,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Guardian": [
+    {
+      "club_name": "The Guardian",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 9,
+      "club_min": 135,
+      "club_distance": [
+        166,
+        166,
+        166,
+        171,
+        171,
+        174,
+        175,
+        179,
+        179
+      ],
+      "club_accuracy": [
+        50,
+        50,
+        66,
+        66,
+        78,
+        78,
+        90,
+        90,
+        95
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Sniper": [
+    {
+      "club_name": "The Sniper",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 10,
+      "club_min": 135,
+      "club_distance": [
+        160,
+        160,
+        160,
+        160,
+        164,
+        164,
+        166,
+        166,
+        170,
+        172
+      ],
+      "club_accuracy": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Cataclysm": [
+    {
+      "club_name": "The Cataclysm",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 8,
+      "club_min": 135,
+      "club_distance": [
+        175,
+        176,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180
+      ],
+      "club_accuracy": [
+        30,
+        47,
+        47,
+        47,
+        60,
+        60,
+        80,
+        90
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Golden Wood": [
+    {
+      "club_name": "Golden Wood",
+      "club_type": "Wood",
+      "acc_intercept": 0.209,
+      "acc_coefficient": -0.00139,
+      "traj_coefficient": 25784.5507806288,
+      "club_levels": 1,
+      "club_min": 135,
+      "club_distance": [
+        166
+      ],
+      "club_accuracy": [
+        51
+      ],
+      "hook_no_op": [
+        10
+      ],
+      "hook_op": [
+        11
+      ]
+    }
+  ],
+  "Beginner Long Iron": [
+    {
+      "club_name": "Beginner Long Iron",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 1,
+      "club_min": 90,
+      "club_distance": [
+        115
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Grim Reaper": [
+    {
+      "club_name": "The Grim Reaper",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 8,
+      "club_min": 90,
+      "club_distance": [
+        125,
+        125,
+        125,
+        125,
+        125,
+        126,
+        126,
+        128
+      ],
+      "club_accuracy": [
+        30,
+        30,
+        42,
+        60,
+        60,
+        60,
+        81,
+        90
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Backbone": [
+    {
+      "club_name": "The Backbone",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 10,
+      "club_min": 90,
+      "club_distance": [
+        118,
+        118,
+        119,
+        119,
+        119,
+        120,
+        120,
+        123,
+        127,
+        127
+      ],
+      "club_accuracy": [
+        30,
+        40,
+        40,
+        50,
+        66,
+        66,
+        76,
+        76,
+        82,
+        92
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Goliath": [
+    {
+      "club_name": "The Goliath",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 9,
+      "club_min": 90,
+      "club_distance": [
+        130,
+        132,
+        132,
+        132,
+        135,
+        135,
+        135,
+        135,
+        135
+      ],
+      "club_accuracy": [
+        0,
+        0,
+        16,
+        28,
+        28,
+        34,
+        52,
+        52,
+        55
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Saturn": [
+    {
+      "club_name": "The Saturn",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 10,
+      "club_min": 90,
+      "club_distance": [
+        115,
+        115,
+        115,
+        119,
+        119,
+        119,
+        120,
+        120,
+        124,
+        124
+      ],
+      "club_accuracy": [
+        20,
+        20,
+        35,
+        35,
+        35,
+        51,
+        51,
+        51,
+        56,
+        56
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The B52": [
+    {
+      "club_name": "The B52",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 8,
+      "club_min": 90,
+      "club_distance": [
+        127,
+        127,
+        132,
+        135,
+        135,
+        135,
+        135,
+        135
+      ],
+      "club_accuracy": [
+        62,
+        73,
+        79,
+        79,
+        98,
+        98,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Grizzly": [
+    {
+      "club_name": "The Grizzly",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 9,
+      "club_min": 90,
+      "club_distance": [
+        122,
+        122,
+        122,
+        122,
+        122,
+        126,
+        126,
+        126,
+        129
+      ],
+      "club_accuracy": [
+        73,
+        73,
+        79,
+        79,
+        96,
+        96,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Tsunami": [
+    {
+      "club_name": "The Tsunami",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 8,
+      "club_min": 90,
+      "club_distance": [
+        127,
+        129,
+        133,
+        133,
+        134,
+        134,
+        135,
+        135
+      ],
+      "club_accuracy": [
+        23,
+        23,
+        29,
+        41,
+        60,
+        60,
+        81,
+        92
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Golden Long Iron": [
+    {
+      "club_name": "Golden Long Iron",
+      "club_type": "Long Iron",
+      "acc_intercept": 0.1919,
+      "acc_coefficient": -0.001395,
+      "traj_coefficient": 22168.2305630027,
+      "club_levels": 1,
+      "club_min": 90,
+      "club_distance": [
+        120
+      ],
+      "club_accuracy": [
+        66
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Beginner Short Iron": [
+    {
+      "club_name": "Beginner Short Iron",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 1,
+      "club_min": 45,
+      "club_distance": [
+        75
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Apache": [
+    {
+      "club_name": "The Apache",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 9,
+      "club_min": 45,
+      "club_distance": [
+        84,
+        84,
+        86,
+        89,
+        89,
+        90,
+        90,
+        90,
+        90
+      ],
+      "club_accuracy": [
+        0,
+        4,
+        17,
+        17,
+        27,
+        27,
+        32,
+        32,
+        55
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Kingfisher": [
+    {
+      "club_name": "The Kingfisher",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 8,
+      "club_min": 45,
+      "club_distance": [
+        79,
+        79,
+        79,
+        79,
+        79,
+        79,
+        83,
+        84
+      ],
+      "club_accuracy": [
+        65,
+        69,
+        83,
+        88,
+        88,
+        88,
+        94,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Runner": [
+    {
+      "club_name": "The Runner",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 10,
+      "club_min": 45,
+      "club_distance": [
+        75,
+        75,
+        75,
+        78,
+        80,
+        80,
+        81,
+        82,
+        82,
+        82
+      ],
+      "club_accuracy": [
+        20,
+        24,
+        24,
+        24,
+        36,
+        45,
+        53,
+        53,
+        66,
+        66
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Thorn": [
+    {
+      "club_name": "The Thorn",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 9,
+      "club_min": 45,
+      "club_distance": [
+        81,
+        81,
+        83,
+        86,
+        86,
+        89,
+        89,
+        90,
+        90
+      ],
+      "club_accuracy": [
+        30,
+        43,
+        43,
+        43,
+        52,
+        52,
+        57,
+        57,
+        57
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Hornet": [
+    {
+      "club_name": "The Hornet",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 9,
+      "club_min": 45,
+      "club_distance": [
+        79,
+        82,
+        84,
+        84,
+        86,
+        86,
+        88,
+        88,
+        88
+      ],
+      "club_accuracy": [
+        78,
+        78,
+        91,
+        91,
+        91,
+        96,
+        96,
+        96,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Claw": [
+    {
+      "club_name": "The Claw",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 10,
+      "club_min": 45,
+      "club_distance": [
+        76,
+        76,
+        77,
+        77,
+        80,
+        82,
+        82,
+        86,
+        86,
+        87
+      ],
+      "club_accuracy": [
+        25,
+        29,
+        41,
+        41,
+        50,
+        50,
+        54,
+        54,
+        66,
+        75
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Falcon": [
+    {
+      "club_name": "The Falcon",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 8,
+      "club_min": 45,
+      "club_distance": [
+        81,
+        82,
+        82,
+        85,
+        85,
+        88,
+        88,
+        90
+      ],
+      "club_accuracy": [
+        50,
+        50,
+        59,
+        64,
+        64,
+        80,
+        80,
+        95
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Golden Short Iron": [
+    {
+      "club_name": "Golden Short Iron",
+      "club_type": "Short Iron",
+      "acc_intercept": 0.1397,
+      "acc_coefficient": -0.000875,
+      "traj_coefficient": 18636.2371277484,
+      "club_levels": 1,
+      "club_min": 45,
+      "club_distance": [
+        82
+      ],
+      "club_accuracy": [
+        78
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Beginner Pitcher": [
+    {
+      "club_name": "Beginner Pitcher",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 1,
+      "club_min": 0.1,
+      "club_distance": [
+        35
+      ],
+      "club_accuracy": [
+        30
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Dart": [
+    {
+      "club_name": "The Dart",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 10,
+      "club_min": 0.1,
+      "club_distance": [
+        35,
+        35,
+        37,
+        37,
+        39,
+        39,
+        39,
+        41,
+        41,
+        41
+      ],
+      "club_accuracy": [
+        10,
+        22,
+        22,
+        30,
+        30,
+        43,
+        43,
+        47,
+        60,
+        64
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Firefly": [
+    {
+      "club_name": "The Firefly",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        35,
+        35,
+        37,
+        37,
+        37,
+        38,
+        38,
+        39
+      ],
+      "club_accuracy": [
+        39,
+        39,
+        48,
+        48,
+        53,
+        53,
+        70,
+        90
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Boomerang": [
+    {
+      "club_name": "The Boomerang",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        39,
+        41,
+        41,
+        42,
+        42,
+        44,
+        45,
+        45
+      ],
+      "club_accuracy": [
+        45,
+        45,
+        54,
+        54,
+        70,
+        70,
+        86,
+        98
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The DownInOne": [
+    {
+      "club_name": "The DownInOne",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        41,
+        43,
+        44,
+        44,
+        44,
+        44,
+        44,
+        44,
+        45
+      ],
+      "club_accuracy": [
+        80,
+        80,
+        89,
+        89,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Skewer": [
+    {
+      "club_name": "The Skewer",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 10,
+      "club_min": 0.1,
+      "club_distance": [
+        36,
+        36,
+        38,
+        39,
+        39,
+        39,
+        40,
+        42,
+        42,
+        42
+      ],
+      "club_accuracy": [
+        25,
+        29,
+        29,
+        41,
+        41,
+        50,
+        50,
+        58,
+        58,
+        71
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Endbringer": [
+    {
+      "club_name": "The Endbringer",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        39,
+        41,
+        41,
+        43,
+        43,
+        44,
+        44,
+        44
+      ],
+      "club_accuracy": [
+        70,
+        70,
+        79,
+        79,
+        95,
+        95,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Rapier": [
+    {
+      "club_name": "The Rapier",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        38,
+        38,
+        38,
+        38,
+        40,
+        40,
+        42,
+        42,
+        42
+      ],
+      "club_accuracy": [
+        45,
+        54,
+        58,
+        58,
+        63,
+        72,
+        87,
+        87,
+        95
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Golden Wedge": [
+    {
+      "club_name": "Golden Wedge",
+      "club_type": "Wedge",
+      "acc_intercept": 0.137,
+      "acc_coefficient": -0.001033,
+      "traj_coefficient": 10780.0226502284,
+      "club_levels": 1,
+      "club_min": 0.1,
+      "club_distance": [
+        39
+      ],
+      "club_accuracy": [
+        30
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Beginner Rough Iron": [
+    {
+      "club_name": "Beginner Rough Iron",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 1,
+      "club_min": 0.1,
+      "club_distance": [
+        60
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Roughcutter": [
+    {
+      "club_name": "The Roughcutter",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        75,
+        78,
+        78,
+        88,
+        88,
+        92,
+        92,
+        103,
+        112
+      ],
+      "club_accuracy": [
+        70,
+        70,
+        84,
+        84,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Junglist": [
+    {
+      "club_name": "The Junglist",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        97,
+        107,
+        107,
+        111,
+        111,
+        123,
+        123,
+        124
+      ],
+      "club_accuracy": [
+        20,
+        20,
+        35,
+        35,
+        35,
+        44,
+        71,
+        80
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Machete": [
+    {
+      "club_name": "The Machete",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 10,
+      "club_min": 0.1,
+      "club_distance": [
+        82,
+        82,
+        85,
+        85,
+        91,
+        91,
+        98,
+        98,
+        101,
+        101
+      ],
+      "club_accuracy": [
+        20,
+        20,
+        40,
+        53,
+        60,
+        60,
+        80,
+        80,
+        94,
+        94
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Off Roader": [
+    {
+      "club_name": "The Off Roader",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        108,
+        111,
+        111,
+        115,
+        127,
+        131,
+        131,
+        133
+      ],
+      "club_accuracy": [
+        40,
+        40,
+        63,
+        79,
+        79,
+        96,
+        96,
+        98
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Razor": [
+    {
+      "club_name": "The Razor",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        97,
+        104,
+        104,
+        107,
+        107,
+        111,
+        121,
+        129,
+        131
+      ],
+      "club_accuracy": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Amazon": [
+    {
+      "club_name": "The Amazon",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        121,
+        131,
+        135,
+        135,
+        135,
+        135,
+        135,
+        135
+      ],
+      "club_accuracy": [
+        25,
+        25,
+        40,
+        40,
+        65,
+        74,
+        92,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Nirvana": [
+    {
+      "club_name": "Nirvana",
+      "club_type": "Rough Iron",
+      "acc_intercept": 0.2988,
+      "acc_coefficient": -0.00159,
+      "traj_coefficient": 14000,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        112,
+        112,
+        112,
+        123,
+        123,
+        129,
+        129,
+        135,
+        135
+      ],
+      "club_accuracy": [
+        60,
+        60,
+        74,
+        74,
+        97,
+        97,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Beginner Sand Wedge": [
+    {
+      "club_name": "Beginner Sand Wedge",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 1,
+      "club_min": 0.1,
+      "club_distance": [
+        10
+      ],
+      "club_accuracy": [
+        10
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Castaway": [
+    {
+      "club_name": "The Castaway",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        84,
+        84,
+        95,
+        95,
+        103,
+        103,
+        108,
+        116
+      ],
+      "club_accuracy": [
+        25,
+        39,
+        39,
+        47,
+        47,
+        47,
+        66,
+        68
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Desert Storm": [
+    {
+      "club_name": "The Desert Storm",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 10,
+      "club_min": 0.1,
+      "club_distance": [
+        64,
+        73,
+        73,
+        80,
+        80,
+        80,
+        80,
+        90,
+        90,
+        96
+      ],
+      "club_accuracy": [
+        0,
+        0,
+        20,
+        20,
+        33,
+        33,
+        40,
+        40,
+        54,
+        54
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Malibu": [
+    {
+      "club_name": "The Malibu",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 9,
+      "club_min": 1,
+      "club_distance": [
+        84,
+        84,
+        94,
+        94,
+        101,
+        101,
+        109,
+        109,
+        109
+      ],
+      "club_accuracy": [
+        60,
+        81,
+        81,
+        88,
+        88,
+        96,
+        96,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Sahara": [
+    {
+      "club_name": "The Sahara",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        96,
+        96,
+        107,
+        107,
+        115,
+        115,
+        120,
+        120
+      ],
+      "club_accuracy": [
+        15,
+        15,
+        15,
+        31,
+        31,
+        57,
+        57,
+        75
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "The Sand Lizard": [
+    {
+      "club_name": "The Sand Lizard",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 10,
+      "club_min": 0.1,
+      "club_distance": [
+        68,
+        68,
+        74,
+        74,
+        80,
+        91,
+        91,
+        100,
+        100,
+        100
+      ],
+      "club_accuracy": [
+        70,
+        70,
+        90,
+        90,
+        97,
+        97,
+        97,
+        97,
+        97,
+        97
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Houdini": [
+    {
+      "club_name": "Houdini",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 9,
+      "club_min": 0.1,
+      "club_distance": [
+        80,
+        80,
+        80,
+        91,
+        91,
+        91,
+        98,
+        98,
+        112
+      ],
+      "club_accuracy": [
+        10,
+        10,
+        17,
+        24,
+        47,
+        62,
+        62,
+        79,
+        90
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ],
+  "Spitfire": [
+    {
+      "club_name": "Spitfire",
+      "club_type": "Sand Wedge",
+      "acc_intercept": 0.3339,
+      "acc_coefficient": -0.00175,
+      "traj_coefficient": 9387.75510204082,
+      "club_levels": 8,
+      "club_min": 0.1,
+      "club_distance": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ],
+      "club_accuracy": [
+        50,
+        50,
+        65,
+        65,
+        90,
+        100,
+        100,
+        100
+      ],
+      "hook_no_op": [
+        10,
+        9.9,
+        9.9,
+        9.9,
+        12,
+        12,
+        12.9,
+        12.9,
+        12.9
+      ],
+      "hook_op": [
+        11.3,
+        11.8,
+        11.8,
+        11.8,
+        12.8,
+        12.8,
+        14.3,
+        14.3,
+        14.3
+      ]
+    }
+  ]
+}
